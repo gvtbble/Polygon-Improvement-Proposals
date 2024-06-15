@@ -27,8 +27,19 @@ Consider any document not published by the PIP repository as a working paper. Ad
 
 ### Purpose
 
-The Polygon Protocol Governance Call, is a technical call intended to bring together various Polygon Labs' developers like those on the Governance, Validator support, PoS, and Research teams with the broader Polygon community to provide updates on their projects, discuss various PIPs to improve the protocols and support each other as we build Web 3.0.
-The calls are transcribed and recorded and will be available immediately after the meetings conclude.
+The Polygon Protocol Governance Call is a technical call intended to bring together various Polygon Labs' developers, such as those on the Governance, Validator Support, PoS (Proof of Stake), and Research teams, with the broader Polygon community. The goal is to provide updates on their projects, discuss various Polygon Improvement Proposals (PIPs) to enhance the protocols, and support each other as they build Web 3.0.
+
+During these calls, participants can expect to:
+
+Receive Project Updates: Developers from different teams within Polygon Labs will share the latest developments and progress on their respective projects. This ensures that everyone is informed about ongoing initiatives and future plans.
+
+Discuss PIPs: Various Polygon Improvement Proposals are brought up for discussion. These proposals aim to improve the functionality, security, and efficiency of the Polygon protocols. Community members and developers alike can provide feedback, suggest modifications, and help shape the future of the Polygon network.
+
+Community Support and Collaboration: The call provides a platform for developers and community members to support each other. By sharing knowledge, addressing challenges, and brainstorming solutions, the participants collectively contribute to the growth and success of the Polygon ecosystem.
+
+The calls are transcribed and recorded and will be available immediately after the meetings conclude. This ensures transparency and allows those who could not attend to stay updated on the discussions and decisions made during the call.
+
+By fostering open communication and collaboration, the Polygon Protocol Governance Call plays a crucial role in the development and advancement of the Polygon network, contributing to the broader vision of building Web 3.0.
 
 ### Agenda
 
